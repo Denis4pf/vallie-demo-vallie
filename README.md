@@ -1,7 +1,7 @@
 # vallie-demo-vallie.html
 This is a demo of vallie estate website
 # Live Demo
-https://dehttps://denis4pf.github.io/vallie-demo-vallie.html/nis4pf.github.io/vallie-demo-vallie.html/
+https://denis4pf.github.io/vallie-demo-vallie/
 # Author
 Oonwong'a Orina
 # Project name 
