@@ -1,0 +1,185 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Space Grotesk";
+    background-color: #fafafa;
+}
+.logo{
+    font-family: "Oleo Script";
+}
+.logo h1{
+    font-family: 'Oleo Script', cursive;
+    color: blue;
+}
+.navbar-wrapper{
+    display: flex;
+    align-items: space-between;
+    padding-top: 20px;
+    border-bottom: 1px solid gray;
+}
+
+.menu ul{ 
+    display: flex;
+    list-style: none;
+    padding-left: 150px;
+}
+
+.menu ul li{
+    padding-right: 60px;
+}
+
+.menu ul li a{
+    text-decoration: none;
+}
+
+.get-started{
+    padding-left: 150px;
+}
+.get-started-btn, .btn-learn-more{
+    padding: 20px 35px;
+    background-color: blue;
+    color: #fff;
+    border: 1px solid blue;
+    border-radius: 15px;
+}
+
+.hero-wrapper{
+    display: flex;
+    padding-top: 70px;
+}
+.hero-wrapper img{
+    width: 700px;
+    padding-left: 150px;
+}
+.hero-text{
+    padding-left: 60px;
+    padding-right: 50px;
+}
+.text-blue{
+    color: blue;
+    font-size: 50px;
+}
+.btn-part{
+    display: flex;
+}
+
+.info-wrapper{
+    display: flex;
+    margin: 60px 300px 60px;
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 15px;
+}
+
+.info-wrapper h6{
+    font-size: 25px;
+    color: blue;
+}
+.info-wrapper div{
+    padding-left: 50px;
+}
+
+.section-title h1, .sub-heading h2{ 
+    color: blue;
+}
+
+.sub-heading{
+    text-align: center;
+}
+.product-card-wrapper{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.product-card{
+    background-color: #fff;
+    padding: 70px 50px 70px;
+    margin-left: 50px;
+}
+.product-image{
+    width: 50px;
+}
+
+
+.quality{
+    display: flex;
+    align-items: space-between;
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+}
+.quality img{
+    width: 600px;
+    padding-left: 100px;
+    padding-right: 60px;
+
+}
+.quality-info{
+    padding-right: 40px;
+}
+.quality-heading{
+    padding-bottom: 20px;
+    color: blue;
+}
+.list-main{
+    display: flex;
+}
+.list-main .sub-list{
+    padding-left: 60px;
+}
+.sales-wrapper{
+    padding-top: 100px;
+}
+.property-wrapper{
+    display: flex;
+}
+.single-property{
+    background-color: #fff;
+    padding-right: 0;
+    margin-left: 80px;
+    
+}
+.single-property img{
+    width: 300px;
+}
+
+.btn-view-more{
+    float: right;
+}
+
+.footer-wrapper{
+    background-color: blue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    color: #fff;
+}
+.footer-1{
+    padding-left: 50px;
+}
+.footer-1 ul{
+    list-style: none;
+}
+.footer-1 ul li{
+    padding-bottom: 14px;
+}
+.customer-heading{
+    text-align: center;
+    padding-top: 70px;
+}
+.customer-heading h1{
+    color: blue;
+}
+.names{
+    display: flex;
+    padding-left: 150px;
+}
+.name-1{
+    padding-left: 50px;
+}
+.footer-1 h1{
+    font-family: 'Oleo Script', cursive;
+}
