@@ -176,9 +176,12 @@ body{
 .names{
     display: flex;
     padding-left: 150px;
+    
+    
 }
 .name-1{
     padding-left: 50px;
+    background-color: #fff;
 }
 .footer-1 h1{
     font-family: 'Oleo Script', cursive;
