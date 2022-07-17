@@ -3,10 +3,11 @@ This is a demo of vallie estate website
 # Live Demo
 https://denis4pf.github.io/vallie-demo-vallie/
 # Author
-Oonwong'a Orina
+Denis Onwong'a Orina
 # Project name 
 Vallie real estate
-Real estate website preview
+# description of the programme
+a full detailed Agriculture website demo, you can access it through the gh-pages by where you can go through the readme.md and on the settings you'll go to the pages where you can access the live link of the project
 # license and rights
 MIT License © 2022 Moringa School. All rights reserved.
 
